@@ -75,8 +75,6 @@ a)在使用本软件网络服务进行网上交易时，您不可避免的要向
 　　如发生服务条款与中华人民共和国法律相抵触时，则这些条款将完全按法律规定重新解释，而其它条款则依旧保持约束力。
 ### 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JXUnx1/AboutWHF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### 联系我们
-
+Email:xiaochengkeji@foxmail.com
 联系QQ:2173388486
