@@ -2,8 +2,9 @@
 手机表格集中于解决用户手机制表问题，使用手机表格可以在手机上快速制作表格。
 
 #### 关注我们
-###### 微信
+###### 微信扫一扫关注我们
 ![af](https://github.com/JXUnx1/PhoneTable/blob/master/qrcode_for_gh_4fc83cb109ec_344.jpg?raw=true "af")
+###### QQ 183051883
 
 #### 特点
 * 1.小巧轻便，设计简洁，制表打开迅速。
