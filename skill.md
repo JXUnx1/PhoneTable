@@ -1,5 +1,5 @@
 ### 可以自主修改单元格宽高
-![af](https://github.com/JXUnx1/PhoneTable/blob/master/SkillImages/image%20(1).png"af")
+![af](SkillImages/image (1).png"af")
 ### 计算功能说明
 * 需要注意的是，计算单元格，修改数字之后，需要点击选中一下，才会重新开始计算。
 * 我们的计算功能设计非常简单，选中之后都会在下方有当前设计文字提示，可根据文字提示进行操作。
